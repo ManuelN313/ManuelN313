@@ -19,5 +19,5 @@ C++, C, Python, Haskell, gem5, Verilator, SystemVerilog, Docker, Git, Linux, and
 
 #### Elsewhere
 
-- LinkedIn: [manuel-nieto](https://www.linkedin.com/in/manuel-nieto-a750103a6/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Nieto-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-nieto-a750103a6/)
 - Open to fully remote roles for English-speaking teams.
